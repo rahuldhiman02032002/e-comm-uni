@@ -103,7 +103,7 @@ function Summary() {
       </div>
 
       <div className="card mb-4">
-        <div className="card-body text-center">
+        <div className="card-body text-center m-2 p-2">
           <h3>Grand Total: ${grandTotal}</h3>
           <button
             className="btn btn-primary btn-lg mt-3"
